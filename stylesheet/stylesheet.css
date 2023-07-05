@@ -9,3 +9,22 @@
   max-width: 1280px;
   margin: 0 auto;
 }
+
+.navMenu {
+  text-align: right;
+}
+
+.navMenu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.navMenu li {
+  display: inline-block;
+}
+
+.navMenu li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
