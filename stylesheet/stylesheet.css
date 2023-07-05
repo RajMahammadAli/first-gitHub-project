@@ -31,3 +31,11 @@
   text-decoration: none;
   color: #cccccc;
 }
+
+.heroSection {
+  width: 100%;
+  height: 500px;
+  background-image: url("../images/heroImage01.jpg");
+  background-size: cover;
+  background-position: center;
+}
